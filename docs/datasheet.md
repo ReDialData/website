@@ -53,19 +53,19 @@ Each `Message` contains these fields:
 * `timeOffset`: time since start of dialogue in seconds
 * `senderWorkerId`: the ID of the worker sending the message, either `initiatorWorkerId` or `respondentWorkerId`.
 
-## Dataset Size
+### Dataset Size
 
 The dataset contains a total of 11362 dialogues.
 
-## Dependence on External Sources
+### Dependence on External Sources
 
 We do not provide explicit links to movie synopsis, actors staring in the movies, or other meta-data.
 
-## Recommended Splits
+### Recommended Splits
 
 ......
 
-# Data Collection Process
+## Data Collection Process
 
 Here we formalize the setup of a conversation involving recommendations for the
 purposes of data collection. To provide some additional structure to our data
@@ -118,7 +118,7 @@ likely to talk about movies that they like, and the recommender's objective is
 to recommend movies that the seeker is likely to like.
 
 
-## Who was Involved in the Data Collection Process?
+### Who was Involved in the Data Collection Process?
 
 For the AMT HIT we collect data in English and chose to restrict the data collection to countries where English is the main language. 
 The fact that we pair workers together slows down the data collection since we
@@ -135,22 +135,22 @@ than 1000, (3)~Their location must be in United States, Canada, United Kingdom,
 Australia, or New Zealand.
 
 
-## Over what Timeframe was the data collected?
+### Over what Timeframe was the data collected?
 
-## Is there Information Missing from the Dataset and Why?
+### Is there Information Missing from the Dataset and Why?
 
 We removed dialogues which contained offensive content or meta-discussion about
 the task, as well as unfinished dialogues.
 
 
-## Any other Redundancies/Errors?
+### Any other Redundancies/Errors?
 
 TODO
 
 
-# Data Preprocessing
+## Data Preprocessing
 
-## What Preprocessing and Cleaning was done?
+### What Preprocessing and Cleaning was done?
 
 The dialogues included are not preprocessed.
 
@@ -163,17 +163,17 @@ If you use the dataset, please cite TODO
 TODO
 
 
-# Maintenance
+## Maintenance
 
-## Who is Hosting/Maintaining the Dataset?
+### Who is Hosting/Maintaining the Dataset?
 
-## Will the Dataset be Updated?
+### Will the Dataset be Updated?
 
-# Legal + Ethical Considerations
+## Legal + Ethical Considerations
 
-## How were Participants informed about the Data Collection?
+### How were Participants informed about the Data Collection?
 
-## Was there an Ethical Review?
+### Was there an Ethical Review?
 
 If it relates to people, were they told what the dataset
 would be used for and did they consent? What commu-
