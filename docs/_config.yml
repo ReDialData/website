@@ -2,3 +2,7 @@ theme: jekyll-theme-minimal
 kramdown:
   toc_levels: 1..2
   parse_block_html: true
+site:
+  title: COMRED Dataset
+  description: An annotated dataset of dialogues, where users recommend movies to each other.
+dsname: COMRED
