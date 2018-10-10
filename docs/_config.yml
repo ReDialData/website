@@ -1,4 +1,4 @@
 theme: jekyll-theme-leap-day
 kramdown:
-  toc_levels: 1
+  toc_levels: 1..2
   parse_block_html: true
