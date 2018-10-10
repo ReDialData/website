@@ -3,8 +3,6 @@ layout: page
 title: The !DSNAME! dataset
 ---
 
-{{page.title | replace: '!DSNAME!', site.dsname }}
-
 Enim sunt quia possimus ad. Sed saepe labore aliquam voluptatibus sit. Aut ea voluptas velit rem non ad numquam. Aut architecto consectetur totam et est et suscipit.
 
 Quos corrupti dolore magnam. Omnis fuga eum aperiam magni consequatur. Corporis autem quidem modi dolorem earum at ea. Ea quae et sit possimus debitis praesentium et. Aperiam fuga harum libero delectus saepe earum.
