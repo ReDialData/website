@@ -31,9 +31,9 @@ The dataset collection was funded by ...... with editorial support from Microsof
 ...
 
 
-### Dataset Composition
+## Dataset Composition
 
-#### Structure
+### Structure
 
 The dataset is published in the "jsonl" format, i.e., as a text file where each line corresponds to a `Dialogue` given as a valid JSON document.
 
@@ -54,15 +54,15 @@ Each `Message` contains these fields:
 * `timeOffset`: time since start of dialogue in seconds
 * `senderWorkerId`: the ID of the worker sending the message, either `initiatorWorkerId` or `respondentWorkerId`.
 
-### Dataset Size
+## Dataset Size
 
 The dataset contains a total of 11362 dialogues.
 
-### Dependence on External Sources
+## Dependence on External Sources
 
 We do not provide explicit links to movie synopsis, actors staring in the movies, or other meta-data.
 
-### Recommended Splits
+## Recommended Splits
 
 ......
 
