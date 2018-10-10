@@ -137,6 +137,8 @@ Australia, or New Zealand.
 
 ### Over what Timeframe was the data collected?
 
+TODO
+
 ### Is there Information Missing from the Dataset and Why?
 
 We removed dialogues which contained offensive content or meta-discussion about
@@ -146,6 +148,16 @@ the task, as well as unfinished dialogues.
 ### Any other Redundancies/Errors?
 
 TODO
+
+
+### Interface
+
+<table>
+<tr>
+<td><img src="{{site.baseurl}}/assets/img/comred-interface.png"></td>
+<td><img src="{{site.baseurl}}/assets/img/comred-interface-seeker.png"></td>
+</tr>
+</table>
 
 
 ## Data Preprocessing
