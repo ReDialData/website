@@ -1,6 +1,6 @@
-<nav>
-  <ul></ul>
-</nav>
+---
+layout: withtoc
+---
 
 # Conversational Recommendation: Movie Dialogues Dataset
 
