@@ -13,4 +13,4 @@ Corrupti est quas in ducimus enim necessitatibus natus. Non nihil distinctio in 
 
 Enim aut suscipit libero laborum eos et ad. Saepe voluptatem officia quia cumque ipsam unde. Ducimus dolorum fugiat occaecati asperiores atque. Minus aliquid veritatis aut qui est quod similique sunt. Reiciendis dolores est dolore perspiciatis.
 
-{{page.excerpt | replace: '!DSNAME!', site.dsname }}
+{{page.title | replace: '!DSNAME!', site.dsname }}
