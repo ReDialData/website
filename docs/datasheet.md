@@ -6,13 +6,13 @@ layout: withtoc
 
 This page contains the description and download links to the movie dialogues dataset presented in the NIPS 2018 paper "Towards Deep Conversational Recommendations" by Raymond Li, Samira Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, and Chris Pal.
 
-## Motivation for Creating the Dataset
+### Motivation for Creating the Dataset
 
-### Why was the Dataset Created?
+#### Why was the Dataset Created?
 
 The dataset allows research at the intersection of goal-directed dialogue systems (such as restaurant recommendation) and free-form (also called "chit-chat") dialogue systems.
 
-### Which other tasks can it be used for?
+#### Which other tasks can it be used for?
 
 In the dataset, users talk about which movies they like and which ones they do not like, which ones they have seen or not etc., and labels which we ensured agree between the two participants.
 This allows to research how sentiment is expressed in dialogues, which differs a lot from e.g. review websites.
@@ -21,19 +21,19 @@ The dialogues and the movies they mention form a curious bi-partite graph struct
 
 Ignoring label information, this dataset can also be viewed as a limited domain chit-chat dialogue dataset.
 
-### Who Funded the Creation of the Dataset?
+#### Who Funded the Creation of the Dataset?
 
 The dataset collection was funded by ...... with editorial support from Microsoft.
 
 
-### Support or Contact
+#### Support or Contact
 
 ...
 
 
-## Dataset Composition
+### Dataset Composition
 
-### Structure
+#### Structure
 
 The dataset is published in the "jsonl" format, i.e., as a text file where each line corresponds to a `Dialogue` given as a valid JSON document.
 
@@ -54,19 +54,19 @@ Each `Message` contains these fields:
 * `timeOffset`: time since start of dialogue in seconds
 * `senderWorkerId`: the ID of the worker sending the message, either `initiatorWorkerId` or `respondentWorkerId`.
 
-## Dataset Size
+### Dataset Size
 
 The dataset contains a total of 11362 dialogues.
 
-## Dependence on External Sources
+### Dependence on External Sources
 
 We do not provide explicit links to movie synopsis, actors staring in the movies, or other meta-data.
 
-## Recommended Splits
+### Recommended Splits
 
 ......
 
-# Data Collection Process
+## Data Collection Process
 
 Here we formalize the setup of a conversation involving recommendations for the
 purposes of data collection. To provide some additional structure to our data
@@ -119,7 +119,7 @@ likely to talk about movies that they like, and the recommender's objective is
 to recommend movies that the seeker is likely to like.
 
 
-## Who was Involved in the Data Collection Process?
+### Who was Involved in the Data Collection Process?
 
 For the AMT HIT we collect data in English and chose to restrict the data collection to countries where English is the main language. 
 The fact that we pair workers together slows down the data collection since we
@@ -136,45 +136,45 @@ than 1000, (3)~Their location must be in United States, Canada, United Kingdom,
 Australia, or New Zealand.
 
 
-## Over what Timeframe was the data collected?
+### Over what Timeframe was the data collected?
 
-## Is there Information Missing from the Dataset and Why?
+### Is there Information Missing from the Dataset and Why?
 
 We removed dialogues which contained offensive content or meta-discussion about
 the task, as well as unfinished dialogues.
 
 
-## Any other Redundancies/Errors?
+### Any other Redundancies/Errors?
 
 TODO
 
 
-# Data Preprocessing
+## Data Preprocessing
 
-## What Preprocessing and Cleaning was done?
+### What Preprocessing and Cleaning was done?
 
 The dialogues included are not preprocessed.
 
-# Distribution
+## Distribution
 
 If you use the dataset, please cite TODO
 
-## License
+### License
 
 TODO
 
 
-# Maintenance
+## Maintenance
 
-## Who is Hosting/Maintaining the Dataset?
+### Who is Hosting/Maintaining the Dataset?
 
-## Will the Dataset be Updated?
+### Will the Dataset be Updated?
 
-# Legal + Ethical Considerations
+## Legal + Ethical Considerations
 
-## How were Participants informed about the Data Collection?
+### How were Participants informed about the Data Collection?
 
-## Was there an Ethical Review?
+### Was there an Ethical Review?
 
 If it relates to people, were they told what the dataset
 would be used for and did they consent? What commu-
