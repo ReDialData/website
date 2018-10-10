@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The {{site.dsname}} dataset
+title: The !DSNAME! dataset
 ---
 
 Enim sunt quia possimus ad. Sed saepe labore aliquam voluptatibus sit. Aut ea voluptas velit rem non ad numquam. Aut architecto consectetur totam et est et suscipit.

@@ -51,3 +51,5 @@
     {% endif %}
   </body>
 </html>
+
+{{page.excerpt | replace: '!DSNAME!', site.dsname }}
