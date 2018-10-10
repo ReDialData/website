@@ -1,8 +1,8 @@
 ---
 layout: withtoc
+title: Datasheet
 ---
 
-# Conversational Recommendation: Movie Dialogues Dataset
 
 This page contains the description and download links to the movie dialogues dataset presented in the NIPS 2018 paper "Towards Deep Conversational Recommendations" by Raymond Li, Samira Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, and Chris Pal.
 
