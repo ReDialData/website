@@ -6,3 +6,6 @@ img.logo {
 	filter: FlipV;
 	-ms-filter: "FlipV";
 }
+p.mainmenu {
+	font-size:larger;
+}
