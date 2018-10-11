@@ -158,8 +158,8 @@ TODO
 <td>Seeker Interface</td>
 </tr>
 <tr>
-<td><a href="{{site.baseurl}}/assets/img/comred-interface.png"><img src="{{site.baseurl}}/assets/img/comred-interface.png" width="100%" style="display:block;"></a></td>
-<td><a href="{{site.baseurl}}/assets/img/comred-interface-seeker.png"><img src="{{site.baseurl}}/assets/img/comred-interface-seeker.png" width="100%" style="display:block;"></a></td>
+<td><a href="{{site.baseurl}}/assets/img/comred-interface.png"><img src="{{site.baseurl}}/assets/img/comred-interface.png" width="100%" style="display:block;"/></a></td>
+<td><a href="{{site.baseurl}}/assets/img/comred-interface-seeker.png"><img src="{{site.baseurl}}/assets/img/comred-interface-seeker.png" width="100%" style="display:block;"/></a></td>
 </tr>
 </table>
 

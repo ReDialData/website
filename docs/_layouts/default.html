@@ -19,14 +19,23 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+	<table width="100%">
+	<tr>
+		<td>
+			<a href="https://elementai.com"><img src="https://pbs.twimg.com/profile_images/963534999415853056/hNKqw1H6_400x400.jpg" width="100%" style="display:block;"/></a>
+			<a href="https://mila.quebec"><img src="https://pbs.twimg.com/profile_images/1009069172737953792/GHMXRo6F_400x400.jpg" width="100%" style="display:block;"/></a>
+			<a href="https://polymtl.ca"><img src="https://pbs.twimg.com/profile_images/1963916757/carre-FB-Twitter-br_400x400.jpg" width="100%" style="display:block;"/></a>
+			<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal"><img src="https://pbs.twimg.com/profile_images/955865837600231425/5JOn8_Dq_400x400.jpg" width="100%" style="display:block;"/></a>
+	</tr>
+	</table>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description | | replace: '!DSNAME!', site.dsname }}</p>
 
         <p class="view"><a href="{{site.baseurl}}/datasheet">Datasheet</a></p>
         <p class="view"><a href="{{site.baseurl}}/download">Download</a></p>
         <p class="view"><a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018">Paper</a></p>
 
-	<p class="view">Cite as
+	<p class="view">If you use {{site.dsname}} in your research, please cite our paper with the following BibTeX entry
 		<pre>
 @inproceedings{li2018conversational,
   title={Towards Deep Conversational Recommendations},
