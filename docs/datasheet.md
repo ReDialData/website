@@ -20,12 +20,12 @@ Ignoring label information, this dataset can also be viewed as a limited domain 
 
 ### Who Funded the Creation of {{site.dsname}}?
 
-The dataset collection was funded by ...... with editorial support from Microsoft.
+The dataset collection was funded by Google and IBM, with editorial support from Microsoft Research.
 
 
 ### Support or Contact
 
-...
+TODO
 
 
 ## Dataset Composition
@@ -170,7 +170,16 @@ The dialogues included are not preprocessed.
 
 # Distribution
 
-If you use the dataset, please cite TODO
+If you use {{site.dsname}} in your research, please cite our paper with the following BibTeX entry
+
+```
+@inproceedings{li2018conversational,
+  title={Towards Deep Conversational Recommendations},
+  author={Li, Raymond and Kahou, Samira and Schulz, Hannes and Michalski, Vincent and Charlin, Laurent and Pal, Chris},
+  booktitle={Advances in Neural Information Processing Systems 31 (NIPS 2018)},
+  year={2018}
+}
+```
 
 ## License
 
@@ -186,43 +195,32 @@ The data is published under the  <a href="{{site.ds_license_link}}">{{site.ds_li
 
 ### How were Participants informed about the Data Collection?
 
+Before working on a task, participants were presented with a consent form
+describing the methodology and purpose of the data collection.
+
 ### Was there an Ethical Review?
 
-If it relates to people, were they told what the dataset
-would be used for and did they consent? What commu-
-nity norms exist for data collected from human commu-
-nications?
+The data collection was approved by the Comité d'éthique de la recherche avec
+des êtres humains, Polytechnique Montreal, on 2017-10-27.
 
-If consent was obtained, how?  Were the people
-provided with any mechanism to revoke their consent in the
-future or for certain uses?
+### If it relates to people, were they told what the dataset would be used for and did they consent? What community norms exist for data collected from human communications?
 
-If it relates to people, could this dataset expose people
-to harm or legal action?
-(e.g., financial social or otherwise)
+### If consent was obtained, how?  Were the people provided with any mechanism to revoke their consent in the future or for certain uses?
 
-What was done to mitigate or reduce the potential for harm?
-If it relates to people, does it unfairly advantage or dis-
-advantage a particular social group?
-In what ways?  How
-was this mitigated?
+### If it relates to people, could this dataset expose people to harm or legal action?  (e.g., financial social or otherwise)
 
-If it relates to people, were they provided with privacy
-guarantees?
-If  so,  what  guarantees  and  how  are  these
-ensured?
+### What was done to mitigate or reduce the potential for harm?  If it relates to people, does it unfairly advantage or disadvantage a particular social group?
 
-Does the dataset comply with the EU General Data Pro-
-tection Regulation (GDPR)?
+### In what ways?  How was this mitigated?
 
-Does it comply with any other
-standards, such as the US Equal Employment Opportunity
-Act?
+### If it relates to people, were they provided with privacy guarantees?
 
-Does the dataset contain information that might be con-
-sidered sensitive or confidential?
-(e.g., personally identi-
-fying information)
+### If  so,  what  guarantees  and  how  are  these ensured?
 
-Does the dataset contain information that might be con-
-sidered inappropriate or offensive?
+### Does the dataset comply with the EU General Data Protection Regulation (GDPR)?
+
+### Does it comply with any other standards, such as the US Equal Employment Opportunity Act?
+
+### Does the dataset contain information that might be considered sensitive or confidential?  (e.g., personally identifying information)
+
+### Does the dataset contain information that might be considered inappropriate or offensive?
