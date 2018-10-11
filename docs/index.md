@@ -3,7 +3,7 @@ layout: page
 title: The !DSNAME! dataset
 ---
 
-{{site.description | replace: '!DSNAME!', site.dsname | replace: '!DS_N_DLGS', site.ds_n_dlgs }}
+{{site.description | replace: '!DSNAME!', site.dsname | replace: '!DS_N_DLGS!', site.ds_n_dlgs }}
 
 If you use {{site.dsname}} in your research, please cite our paper with the following BibTeX entry
 
