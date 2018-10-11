@@ -176,8 +176,7 @@ If you use the dataset, please cite TODO
 
 ## License
 
-TODO
-
+The data is published under the  [CC BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Maintenance
 
