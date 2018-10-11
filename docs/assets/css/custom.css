@@ -11,7 +11,7 @@ div.logo img {
 	-ms-filter: "FlipV";
 	display:block;
 	width:100%;
-	margin: -15px 0 0 0px;
+	margin: 0px 0px 0px -15px;
 }
 
 
