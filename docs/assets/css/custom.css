@@ -9,6 +9,8 @@ div.logo img {
 	transform: scaleY(-1);
 	filter: FlipV;
 	-ms-filter: "FlipV";
+	display:block;
+	width:100%;
 	margin: -15px 0 0 0px;
 }
 
