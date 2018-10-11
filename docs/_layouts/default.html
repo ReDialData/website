@@ -18,7 +18,9 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | replace: '!DSNAME!', site.dsname }}</a></h1>
         
         {% if site.logo %}
+	<div class="logo">
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" />
+	</div>
         {% endif %}
 
         <p class="view mainmenu"><a href="{{site.baseurl}}/datasheet">Datasheet</a></p>

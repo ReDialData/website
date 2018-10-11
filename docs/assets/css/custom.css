@@ -5,6 +5,8 @@ img.logo {
 	transform: scaleY(-1);
 	filter: FlipV;
 	-ms-filter: "FlipV";
+}
+div.logo {
 	padding: 0px 0px 20px 0px;
 }
 p.mainmenu {
