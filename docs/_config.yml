@@ -4,5 +4,4 @@ kramdown:
   parse_block_html: true
 logo: assets/img/comred-movies-dots.png
 title: COMRED Dataset
-description: !DSNAME! is an annotated dataset of dialogues, where users recommend movies to each other. The dataset was collected by a team of researchers working at <a href="https://polymtl.ca">Polytechnique Montréal</a>, <a href="https://mila.quebec">Montréal Institute of Learning Algorithms</a>, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/">Microsoft Research Montréal</a> and <a href="https://elementai.com">Element AI</a>.
 dsname: COMRED
