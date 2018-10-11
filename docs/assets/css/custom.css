@@ -17,3 +17,12 @@ p.mainmenu {
 	border-bottom:0px;
 	padding:0; margin:0;
 }
+td.center {
+	text-align: center;
+}
+td.left {
+	text-align: left;
+}
+td.right {
+	text-align: right;
+}
