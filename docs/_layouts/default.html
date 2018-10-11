@@ -19,22 +19,12 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-	<p>{{site.dsname}} is an annotated dataset of dialogues, where users recommend movies to each other. The dataset was collected by a team of researchers working at <a href="https://polymtl.ca">Polytechnique Montréal</a>, <a href="https://mila.quebec">Montréal Institute of Learning Algorithms</a>, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/">Microsoft Research Montréal</a> and <a href="https://elementai.com">Element AI</a>.</p>
+	<p>{{ site.description | replace: '!DSNAME!', site.dsname }}</p>
 
         <p class="view"><a href="{{site.baseurl}}/datasheet">Datasheet</a></p>
         <p class="view"><a href="{{site.baseurl}}/download">Download</a></p>
         <p class="view"><a href="https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018">Paper</a></p>
 
-	<p class="view">If you use {{site.dsname}} in your research, please cite our paper with the following BibTeX entry
-		{% raw %}<pre>
-@inproceedings{li2018conversational,
-  title={Towards Deep Conversational Recommendations},
-  author={Li, Raymond and Kahou, Samira and Schulz, Hannes and Michalski, Vincent and Charlin, Laurent and Pal, Chris},
-  booktitle={Advances in Neural Information Processing Systems 31 (NIPS 2018)},
-  year={2018}
-}
-		</pre>{% endraw %}
-	</p>
 	<table width="100%">
 	<tr>
 		<td><a href="https://polymtl.ca"><img src="https://pbs.twimg.com/profile_images/1963916757/carre-FB-Twitter-br_400x400.jpg" width="100%" style="display:block;"/></a></td>
