@@ -12,3 +12,6 @@ div.logo {
 p.mainmenu {
 	font-size:larger;
 }
+.noborder {
+	border: none;
+}
