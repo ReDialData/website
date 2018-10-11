@@ -152,10 +152,13 @@ TODO
 
 ### Interface
 
-<table>
+<table width="100%">
 <tr>
-<td><img src="{{site.baseurl}}/assets/img/comred-interface.png"></td>
-<td><img src="{{site.baseurl}}/assets/img/comred-interface-seeker.png"></td>
+<td>Recommender Interface</td>
+<td>Seeker Interface</td>
+</tr>
+<td><a href="{{site.baseurl}}/assets/img/comred-interface.png"><img src="{{site.baseurl}}/assets/img/comred-interface.png" width="100%" style="display:block;"></a></td>
+<td><a href="{{site.baseurl}}/assets/img/comred-interface-seeker.png"><img src="{{site.baseurl}}/assets/img/comred-interface-seeker.png" width="100%" style="display:block;"></a></td>
 </tr>
 </table>
 
