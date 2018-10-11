@@ -5,11 +5,11 @@ img.logo {
 	transform: scaleY(-1);
 	filter: FlipV;
 	-ms-filter: "FlipV";
+	overflow: hidden;
+	margin: -15px 0 0 0px;
 }
 div.logo {
-	overflow: hidden;
 	padding: 0px 0px 20px 0px;
-	margin: -15px 0 0 0px;
 }
 p.mainmenu {
 	font-size:larger;
