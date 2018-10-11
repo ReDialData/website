@@ -55,7 +55,7 @@ Each `Message` contains these fields:
 
 ### Dataset Size
 
-The dataset contains a total of 11362 dialogues.
+The dataset contains a total of {{site.ds_n_dlgs}} dialogues.
 
 ### Dependence on External Sources
 
