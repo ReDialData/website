@@ -176,7 +176,7 @@ If you use the dataset, please cite TODO
 
 ## License
 
-The data is published under the  [CC BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/).
+The data is published under the  <a href="{{site.ds_license_link}}">{{site.ds_license}}</a>.
 
 ## Maintenance
 

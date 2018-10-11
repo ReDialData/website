@@ -7,3 +7,5 @@ description: "!DSNAME! (COnversational Movie REcommendation Dataset) is an annot
 title: CoMReD Dataset
 dsname: CoMReD
 ds_n_dlgs: 11362
+ds_license: CC BY-SA 4.0 License
+ds_license_link: http://creativecommons.org/licenses/by-sa/4.0
