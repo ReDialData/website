@@ -3,11 +3,9 @@ layout: withtoc
 title: Datasheet
 ---
 
-This page contains the description and download links to the movie dialogues dataset presented in the NIPS 2018 paper "Towards Deep Conversational Recommendations" by Raymond Li, Samira Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, and Chris Pal.
+## Motivation for Creating {{site.dsname}}
 
-## Motivation for Creating the Dataset
-
-### Why was the Dataset Created?
+### Why was {{site.dsname}} Created?
 
 The dataset allows research at the intersection of goal-directed dialogue systems (such as restaurant recommendation) and free-form (also called "chit-chat") dialogue systems.
 
@@ -20,7 +18,7 @@ The dialogues and the movies they mention form a curious bi-partite graph struct
 
 Ignoring label information, this dataset can also be viewed as a limited domain chit-chat dialogue dataset.
 
-### Who Funded the Creation of the Dataset?
+### Who Funded the Creation of {{site.dsname}}?
 
 The dataset collection was funded by ...... with editorial support from Microsoft.
 
@@ -139,7 +137,7 @@ Australia, or New Zealand.
 
 TODO
 
-### Is there Information Missing from the Dataset and Why?
+### Is there Information Missing from {{site.dsname}} and Why?
 
 We removed dialogues which contained offensive content or meta-discussion about
 the task, as well as unfinished dialogues.
@@ -180,9 +178,9 @@ The data is published under the  <a href="{{site.ds_license_link}}">{{site.ds_li
 
 ## Maintenance
 
-### Who is Hosting/Maintaining the Dataset?
+### Who is Hosting/Maintaining {{site.dsname}}?
 
-### Will the Dataset be Updated?
+### Will {{site.dsname}} be Updated?
 
 ## Legal + Ethical Considerations
 
