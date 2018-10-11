@@ -9,13 +9,12 @@ div.logo img {
 	transform: scaleY(-1);
 	filter: FlipV;
 	-ms-filter: "FlipV";
-	max-width: initial;
-	text-indent: -10px;
+	margin: -15px 0 0 0px;
 }
 
 
 p.mainmenu {
-	font-size:larger;
+	font-size: larger;
 }
 .noborder {
 	border: none;
