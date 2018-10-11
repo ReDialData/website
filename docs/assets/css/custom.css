@@ -1,16 +1,19 @@
-img.logo {
+div.logo {
+	padding: 0px 0px 20px 0px;
+	overflow: hidden;
+}
+div.logo img {
 	-moz-transform: scaleY(-1);
 	-o-transform: scaleY(-1);
 	-webkit-transform: scaleY(-1);
 	transform: scaleY(-1);
 	filter: FlipV;
 	-ms-filter: "FlipV";
-	overflow: hidden;
-	margin: -15px 0 0 0px;
+	max-width: initial;
+	text-indent: -10px;
 }
-div.logo {
-	padding: 0px 0px 20px 0px;
-}
+
+
 p.mainmenu {
 	font-size:larger;
 }
