@@ -3,9 +3,9 @@ kramdown:
   toc_levels: 1..2
   parse_block_html: true
 logo: assets/img/comred-movies-dots.png
-description: "!DSNAME! (COnversational Movie REcommendation Dataset) is an annotated dataset of !DS_N_DLGS! dialogues, where users recommend movies to each other. The dataset was collected by a team of researchers working at <a href=\"https://polymtl.ca\">Polytechnique Montréal</a>, <a href=\"https://mila.quebec\">Montréal Institute of Learning Algorithms</a>, <a href=\"https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/\">Microsoft Research Montréal</a> and <a href=\"https://elementai.com\">Element AI</a>."
-title: CoMReD Dataset
-dsname: CoMReD
+description: "!DSNAME! (Recommendation Dialogues) is an annotated dataset of !DS_N_DLGS! dialogues, where users recommend movies to each other. The dataset was collected by a team of researchers working at <a href=\"https://polymtl.ca\">Polytechnique Montréal</a>, <a href=\"https://mila.quebec\">Montréal Institute of Learning Algorithms</a>, <a href=\"https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/\">Microsoft Research Montréal</a> and <a href=\"https://elementai.com\">Element AI</a>."
+title: ReDial Dataset
+dsname: ReDial
 ds_n_dlgs: 11362
 ds_license: CC BY-SA 4.0 License
 ds_license_link: http://creativecommons.org/licenses/by-sa/4.0
