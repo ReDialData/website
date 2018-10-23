@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The !DSNAME! dataset
+title: The ReDial dataset
 ---
 
 {{site.description | replace: '!DSNAME!', site.dsname | replace: '!DS_N_DLGS!', site.ds_n_dlgs }}
