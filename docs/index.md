@@ -24,7 +24,7 @@ If you have questions, contact us at our google group:
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
-  width="600"
+  width="400"
   height="250">
 </iframe>
 <script type="text/javascript">
