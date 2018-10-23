@@ -31,8 +31,8 @@ You can reach out to us via the redial-dataset google group:
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
-  width="900"
-  height="700">
+  width="600"
+  height="250">
 </iframe>
 <script type="text/javascript">
   document.getElementById('forum_embed').src =
