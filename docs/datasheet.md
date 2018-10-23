@@ -25,7 +25,21 @@ The dataset collection was funded by Google and IBM, with editorial support from
 
 ### Support or Contact
 
-TODO
+You can reach out to us via the redial-dataset google group:
+
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/forum/embed/?place=forum/redial-dataset'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>
 
 
 ## Dataset Composition
