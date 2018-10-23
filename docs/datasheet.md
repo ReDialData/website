@@ -67,7 +67,7 @@ Each `Message` contains these fields:
 
 ### Dataset Size
 
-The dataset contains a total of {{site.ds_n_dlgs}} dialogues.
+The dataset contains a total of {{site.ds_n_dlgs}} dialogues, {{site.ds_n_dlgs_train}} for training and model selection, and {{site.ds_n_dlgs_test}} for testing.
 
 ### Dependence on External Sources
 

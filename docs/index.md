@@ -17,3 +17,19 @@ If you use {{site.dsname}} in your research, please cite our paper with the foll
   year={2018}
 }
 ```
+
+If you have questions, contact us at our google group:
+
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="600"
+  height="250">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/forum/embed/?place=forum/redial-dataset'
+     + '&showsearch=false&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>
