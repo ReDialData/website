@@ -37,7 +37,7 @@ You can reach out to us via the redial-dataset google group:
 <script type="text/javascript">
   document.getElementById('forum_embed').src =
      'https://groups.google.com/forum/embed/?place=forum/redial-dataset'
-     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&showsearch=false&showpopout=true&showtabs=false'
      + '&parenturl=' + encodeURIComponent(window.location.href);
 </script>
 
