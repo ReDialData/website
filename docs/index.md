@@ -7,7 +7,7 @@ title: The ReDial dataset
 
 The dataset is published under the  <a href="{{site.ds_license_link}}">{{site.ds_license}}</a>.
 
-If you use {{site.dsname}} in your research, please cite our paper with the following BibTeX entry
+If you use {{site.dsname}} in your research, please cite [our paper]({{site.paperlink}}) with the following BibTeX entry
 
 ```
 @inproceedings{li2018conversational,
