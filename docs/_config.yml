@@ -9,5 +9,5 @@ dsname: ReDial
 ds_n_dlgs: 11351
 ds_n_dlgs_train: 10009
 ds_n_dlgs_test: 1342
-ds_license: CC BY-SA 4.0 License
-ds_license_link: http://creativecommons.org/licenses/by-sa/4.0
+ds_license: CC BY 4.0 License
+ds_license_link: http://creativecommons.org/licenses/by/4.0

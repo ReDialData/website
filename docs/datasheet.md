@@ -20,7 +20,7 @@ Ignoring label information, this dataset can also be viewed as a limited domain 
 
 ### Who Funded the Creation of {{site.dsname}}?
 
-The dataset collection was funded by Google and IBM, with editorial support from Microsoft Research.
+The dataset collection was funded by Google, IBM, and NSERC, with editorial support from Microsoft Research.
 
 
 ### Support or Contact
