@@ -6,7 +6,7 @@ logo: assets/img/comred-movies-dots.png
 description: "ReDial (Recommendation Dialogues) is an annotated dataset of dialogues, where users recommend movies to each other. The dataset was collected by a team of researchers working at <a href=\"https://polymtl.ca\">Polytechnique Montréal</a>, <a href=\"https://mila.quebec\">Montréal Institute of Learning Algorithms</a>, <a href=\"https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/\">Microsoft Research Montréal</a>, <a href=\"https://www.hec.ca/en/\">HEC Montreal</a>, and <a href=\"https://elementai.com\">Element AI</a>."
 title: ReDial Dataset
 dsname: ReDial
-paperlink: "https://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018"
+paperlink: "https://nips.cc/Conferences/2018/Schedule?showEvent=11924"
 ds_n_dlgs: 11351
 ds_n_dlgs_train: 10009
 ds_n_dlgs_test: 1342
