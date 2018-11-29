@@ -3,4 +3,4 @@ layout: page
 title: Download
 ---
 
-You can download {{site.dsname}} at ....
+Please download {{site.dsname}} from https://github.com/ReDialData/website/tree/data
