@@ -12,7 +12,7 @@ If you use {{site.dsname}} in your research, please cite [our paper]({{site.pape
 ```
 @inproceedings{li2018conversational,
   title={Towards Deep Conversational Recommendations},
-  author={Li, Raymond and Kahou, Samira and Schulz, Hannes and Michalski, Vincent and Charlin, Laurent and Pal, Chris},
+  author={Li, Raymond and Kahou, Samira Ebrahimi and Schulz, Hannes and Michalski, Vincent and Charlin, Laurent and Pal, Chris},
   booktitle={Advances in Neural Information Processing Systems 31 (NIPS 2018)},
   year={2018}
 }
