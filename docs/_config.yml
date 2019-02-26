@@ -7,6 +7,7 @@ description: "ReDial (Recommendation Dialogues) is an annotated dataset of dialo
 title: ReDial Dataset
 dsname: ReDial
 paperlink: "http://papers.nips.cc/paper/8180-towards-deep-conversational-recommendations"
+codelink: "https://github.com/RaymondLi0/conversational-recommendations"
 ds_n_dlgs: 11348
 ds_n_dlgs_train: 10006
 ds_n_dlgs_test: 1342
