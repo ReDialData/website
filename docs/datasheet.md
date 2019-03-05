@@ -65,6 +65,12 @@ Each `Message` contains these fields:
 * `timeOffset`: time since start of dialogue in seconds
 * `senderWorkerId`: the ID of the worker sending the message, either `initiatorWorkerId` or `respondentWorkerId`.
 
+The labels in `initiatorQuestions` and `respondentQuestions` have the following meaning:
+
+* `suggested`: `0` if it was mentioned by the seeker, `1` if it was a suggestion from the recommender
+* `seen`: `0` if the seeker has not seen the movie, `1` if they have seen it, `2` if they did not say
+* `liked`: `0` if the seeker did not like the movie, `1` if they liked it, `2` if they did not say
+
 ### Dataset Size
 
 The dataset contains a total of {{site.ds_n_dlgs}} dialogues, {{site.ds_n_dlgs_train}} for training and model selection, and {{site.ds_n_dlgs_test}} for testing.
